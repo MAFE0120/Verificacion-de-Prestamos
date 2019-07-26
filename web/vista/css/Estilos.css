@@ -1,0 +1,41 @@
+body {
+    background: url(../img/bookkeeping-615384_1920.jpg) no-repeat center center fixed;
+}
+
+.rounded-lg {
+    margin-top: 150px;
+    margin-left: 400px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #FFF;
+    background:rgba(247,245,255,0.7);
+}
+
+h1 {
+    font-family: "Cronos-Pro-Semibold-Subhead_12455", sans-serif !important;
+}
+
+label {
+    font-family: "Cronos-Pro-Subhead_12458", sans-serif !important;
+    font-size: 25px;
+}
+
+button {
+    font-family: "Cronos-Pro-Subhead_12458", sans-serif !important;
+    font-size: 20px !important;
+    color: black !important;
+}
+
+button:hover {
+    color: white !important;
+}
+
+@font-face {
+    font-family: "Cronos-Pro-Semibold-Subhead_12455";
+    src: url(../fonts/Cronos-Pro-Semibold-Subhead_12455.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Cronos-Pro-Subhead_12458";
+    src: url(../fonts/Cronos-Pro-Subhead_12458.ttf) format("truetype");
+}

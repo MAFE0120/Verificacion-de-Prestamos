@@ -1,0 +1,74 @@
+.navbar, a {
+    background-color: #17a2b8;
+    color: white !important;
+}
+
+.titulo {
+    font-family: "Cronos-Pro-Semibold-Subhead_12455", sans-serif !important;
+    font-size: 25px;
+}
+
+.off {
+    font-family: "Cronos-Pro-Subhead_12458", sans-serif !important;
+    font-size: 20px;
+}
+
+.container {
+    padding-top: 30px;
+}
+
+h1 {
+    font-family: "Cronos-Pro-Semibold-Subhead_12455", sans-serif !important;
+    color: #ffc107 !important;
+}
+
+form {
+    padding-top: 30px;
+}
+
+.fa-funnel-dollar {
+    font-size: 20px;
+}
+
+label {
+    font-family: "Cronos-Pro-Subhead_12458", sans-serif !important;
+    font-size: 25px;
+}
+
+input {
+   font-family: "Cronos-Pro-Subhead_12458", sans-serif !important;
+   font-size: 19px !important; 
+}
+
+button {
+    font-family: "Cronos-Pro-Subhead_12458", sans-serif !important;
+    font-size: 19px !important; 
+    color: black !important;
+}
+
+button:hover {
+    color: white !important;
+}
+
+table {
+    margin-top: 50px !important;
+}
+
+table, thead {
+    font-family: "Cronos-Pro-Semibold-Subhead_12455", sans-serif !important;
+    font-size: 19px !important; 
+    
+}
+
+.fa-dollar-sign {
+    font-size: 15px;
+}
+@font-face {
+    font-family: "Cronos-Pro-Semibold-Subhead_12455";
+    src: url(../fonts/Cronos-Pro-Semibold-Subhead_12455.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Cronos-Pro-Subhead_12458";
+    src: url(../fonts/Cronos-Pro-Subhead_12458.ttf) format("truetype");
+}
